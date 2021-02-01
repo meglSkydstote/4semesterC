@@ -1,0 +1,42 @@
+﻿<Window x:Class="Lektion1_opg6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lektion1_opg6"
+        mc:Ignorable="d"
+        Title="Main vinduet!" Height="500" Width="700">
+    <Grid RenderTransformOrigin="0.5,0.5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.ColumnSpan="2" Content="Hejsa! Første label lavet her med Content" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="672" Height="51" />
+        <ListBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="316" Margin="510,77,0,0" VerticalAlignment="Top" Width="150"/>
+        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="56" Margin="10,337,0,0" TextWrapping="Wrap" Text="Her er der en textBox, den er fyldte med lidt tekst" VerticalAlignment="Top" Width="122"/>
+        <RadioButton Grid.ColumnSpan="2" Content="Radio1" HorizontalAlignment="Left" Margin="342,118,0,0" VerticalAlignment="Top" Height="20" Width="107"/>
+        <RadioButton Grid.ColumnSpan="2" Content="Radio2" HorizontalAlignment="Left" Margin="342,136,0,0" VerticalAlignment="Top" Height="20" Width="107"/>
+        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="72" Margin="4,210,0,0" TextWrapping="Wrap" Text="TextBox nummer 2! Den er vendt 90 grader!" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <CheckBox Grid.ColumnSpan="2" Content="CheckBox" HorizontalAlignment="Left" Margin="170,103,0,0" VerticalAlignment="Top"/>
+        <Button Grid.ColumnSpan="2" Content="Button" HorizontalAlignment="Left" Margin="211,204,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="45"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\bin\Debug\Lektion1_opg6.exe.config
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\bin\Debug\Lektion1_opg6.exe
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\bin\Debug\Lektion1_opg6.pdb
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\Lektion1_opg6.csprojAssemblyReference.cache
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\MainWindow.g.cs
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\App.g.cs
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\Lektion1_opg6_MarkupCompile.cache
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\Lektion1_opg6_MarkupCompile.lref
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\MainWindow.baml
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\Lektion1_opg6.g.resources
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\Lektion1_opg6.Properties.Resources.resources
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\Lektion1_opg6.csproj.GenerateResource.cache
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\Lektion1_opg6.csproj.CoreCompileInputs.cache
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\Lektion1_opg6.exe
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion1_opg6\obj\Debug\Lektion1_opg6.pdb
