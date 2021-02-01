@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lektion4
+namespace Lektion1_opg4
 {
     class Opg4
     {

@@ -2,7 +2,7 @@
 
 namespace Lektion4_opg5
 {
-    class Program
+    class Opg5
     {
         public static double Max(double[] arr)
         {
