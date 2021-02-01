@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion4_opg5\\Lektion4_opg5.csproj",
-      "projectName": "Lektion4_opg5",
-      "projectPath": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion4_opg5\\Lektion4_opg5.csproj",
+      "projectUniqueName": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion1_opg5\\Lektion1_opg5.csproj",
+      "projectName": "Lektion1_opg5",
+      "projectPath": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion1_opg5\\Lektion1_opg5.csproj",
       "packagesPath": "C:\\Users\\Megl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion4_opg5\\obj\\",
+      "outputPath": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion1_opg5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Megl\\AppData\\Roaming\\NuGet\\NuGet.Config",
