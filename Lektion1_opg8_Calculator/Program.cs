@@ -46,7 +46,7 @@ namespace Lektion1_opg8_Calculator
                         break;
                 }
 
-                Console.Write("Press Y to continuous usage of the calculator or N to close the application\n");
+                Console.Write("Press Y for continuous usage of the calculator or N to close the application\n");
                 Console.Write("y/n\n");
                 switch (Console.ReadKey(true).Key)
                 {
