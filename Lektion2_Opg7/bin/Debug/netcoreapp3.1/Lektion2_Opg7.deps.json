@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lektion2_Opg7/1.0.0": {
+        "runtime": {
+          "Lektion2_Opg7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lektion2_Opg7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

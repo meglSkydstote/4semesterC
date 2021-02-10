@@ -1,0 +1,12 @@
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\bin\Debug\netcoreapp3.1\Lektion3_Opg7.exe
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\bin\Debug\netcoreapp3.1\Lektion3_Opg7.deps.json
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\bin\Debug\netcoreapp3.1\Lektion3_Opg7.runtimeconfig.json
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\bin\Debug\netcoreapp3.1\Lektion3_Opg7.runtimeconfig.dev.json
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\bin\Debug\netcoreapp3.1\Lektion3_Opg7.dll
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\bin\Debug\netcoreapp3.1\Lektion3_Opg7.pdb
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\obj\Debug\netcoreapp3.1\Lektion3_Opg7.AssemblyInfoInputs.cache
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\obj\Debug\netcoreapp3.1\Lektion3_Opg7.AssemblyInfo.cs
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\obj\Debug\netcoreapp3.1\Lektion3_Opg7.csproj.CoreCompileInputs.cache
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\obj\Debug\netcoreapp3.1\Lektion3_Opg7.dll
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\obj\Debug\netcoreapp3.1\Lektion3_Opg7.pdb
+C:\Users\Megl\Desktop\4.Semester_C_Sharp\4semesterC\Lektion3_Opg7\obj\Debug\netcoreapp3.1\Lektion3_Opg7.genruntimeconfig.cache
