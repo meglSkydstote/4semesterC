@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3\\Lektion3_Opg01+2+3.csproj": {}
+    "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3_Opg1+2+3_Solution\\Lektion3_Opg01+2+3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3\\Lektion3_Opg01+2+3.csproj": {
+    "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3_Opg1+2+3_Solution\\Lektion3_Opg01+2+3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3\\Lektion3_Opg01+2+3.csproj",
+        "projectUniqueName": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3_Opg1+2+3_Solution\\Lektion3_Opg01+2+3.csproj",
         "projectName": "Lektion3_Opg01+2+3",
-        "projectPath": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3\\Lektion3_Opg01+2+3.csproj",
+        "projectPath": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3_Opg1+2+3_Solution\\Lektion3_Opg01+2+3.csproj",
         "packagesPath": "C:\\Users\\Megl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3\\obj\\",
+        "outputPath": "C:\\Users\\Megl\\Desktop\\4.Semester_C_Sharp\\4semesterC\\Lektion3_Opg1+2+3_Solution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Megl\\AppData\\Roaming\\NuGet\\NuGet.Config",
